@@ -1,0 +1,28 @@
+.Yaswanth{
+    color:crimson;
+
+}
+.heading{
+    color:crimson;
+}
+.para{
+    font-style: italic;
+    text-decoration: underline;
+}
+.heading{
+    color:chocolate;
+}
+.strike{
+     text-decoration:line-through
+}
+.yellowbg{
+     background-color: yellow;
+     
+}
+
+li{
+    color:brown;
+}
+ul{
+    letter-spacing:5px;
+}
